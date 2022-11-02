@@ -1,0 +1,96 @@
+body
+{
+    background-color: #24353F;
+
+}
+
+.login
+{   
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    box-shadow: 0px 0px 20px 8px;
+    padding: 80px;
+    width: 75%;
+}
+.login h2
+{
+    color: #17A2B8;
+    font-weight: 500;
+    font-size: 40px;
+}
+.login a
+{
+   
+    color: #17A2B8;
+}
+.login .accText
+{
+    margin: 10px 0 !important;
+}
+.input-edit
+{
+    background-color: transparent !important;
+    color: #fff !important;
+}
+.input-edit:focus
+{
+    box-shadow: none !important;
+}
+.btn-edit 
+{
+    color: #fff !important;
+    text-decoration: none;
+    border:1px solid #17A2B8 ;
+    padding: 5px 100px;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.btn-edit:hover
+{
+    background-color: #17A2B8;
+} 
+.error-input, .error-input1, .error-input2, .error-input3
+{
+    color: red;
+}
+.test
+{
+   display: none;
+}
+#userName
+{
+    color: green;
+}
+.edit-home
+{
+    margin-top: 250px;
+}
+.shadow-nav
+{
+    box-shadow:0px 20px 20px 5px #1c2a33 ;
+}
+.shadow-nav a
+{
+    text-decoration: none;
+    color: #0dcaf0;
+}
+.shadow-nav button:hover a
+{
+    color: white !important;
+}
+.btn-edit1
+{
+    text-decoration: none;
+    border:1px solid #17A2B8 ;
+    padding: 5px 40px;
+    border-radius: 7px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.btn-edit1:hover
+{
+    background-color: #17A2B8;
+    color: #fff;
+}
